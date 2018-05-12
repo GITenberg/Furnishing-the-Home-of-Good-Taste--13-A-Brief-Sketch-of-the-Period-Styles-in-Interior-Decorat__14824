@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5705'
     url: http://www.gutenberg.org/2009/agents/5705
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14824#Furnishing-the-Home-of-Good-Taste--13-A-Brief-Sketch-of-the-Period-Styles-in-Interior-Decorat_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2005-01-28'
 gutenberg_type: Text
